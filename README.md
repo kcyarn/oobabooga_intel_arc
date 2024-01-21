@@ -1,7 +1,9 @@
 # Making Oobabooga and Intel Arc Work Together
 These are helpers and scripts for using Intel Arc gpus with oobabooga's text-generation-webui. Contributions welcome.
 
-This is just a starting point. Changes welcome. Once it's right in bash, we can decide whether to integrate it with oobabooga's start_linux.sh, requirements files, and one_click.py.
+See the [original post](https://github.com/oobabooga/text-generation-webui/issues/3761#issuecomment-1902748914) for more details.
+
+Please remember that this is just a starting point. Changes are welcome. Once it's right in bash, we can decide whether to integrate it with oobabooga's start_linux.sh, requirements files, and one_click.py.
 
 ## Getting Started
 
