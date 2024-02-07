@@ -22,7 +22,7 @@ This is just a starting point. Changes are welcome. Once it's right in bash, we 
    clinfo -l
    ```
 
-5. In `run_arc.sh`, find `GGML_OPENCL_PLATFORM` and change it to your platform number. Then change the `GGML_OPENCL_DEVICE` to your device name. Save the file.
+5. In `run_arc.sh`, find `GGML_OPENCL_PLATFORM` and change it to your platform number. Then change the `GGML_OPENCL_DEVICE` to your device name. If you have not added OneAPI's setvars.sh to your .bashrc, uncomment the source line. Save the file.
 
 6. Start the server with `run_arch.sh`. This uses any flags you've saved in `CMD_FLAGS.txt`. You can also use flags like `--listen --api` with the script.
 
